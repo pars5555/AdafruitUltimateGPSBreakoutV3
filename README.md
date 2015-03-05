@@ -1,4 +1,4 @@
-# AdafruitUltimateGPSBreakoutV3
+# Adafruit Ultimate GPS Breakout V3 - with JAVA on Raspberry PI
 
 This project build in java programming language under Netbeans.
 
